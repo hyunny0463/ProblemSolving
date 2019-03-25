@@ -15,9 +15,6 @@
 #define _CRT_SECURE_NO_WARNINGS
 #define fastio() ios_base::sync_with_stdio(0), cin.tie(0), cout.tie(0)
 #include<iostream>
-#include<vector>
-#include<queue>
-#include<string.h>
 using namespace std;
 
 const int dx[] = { 0, -1, 0, 1 };
